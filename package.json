@@ -1,0 +1,15 @@
+{
+  "name": "aero-bootstrap",
+  "version": "1.0.0",
+  "description": "Aero devient compatible bootstrap",
+  "repository": "YanissAt42/aero-bootstrap",
+  "keywords": [
+    "aero",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "Yaniss Chnakib",
+    "email": "contact@yanisschnakib.fr",
+    "url": "https://www.yanisschnakib.fr"
+  }
+}
